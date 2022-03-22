@@ -37,7 +37,7 @@ def send_welcome(message):
 
 Telegram: @LinuxArmy
 YouTube: youtube.com/linuxarmy
-Programmer: @it4min
+Programmer: @MrFploit
 
 🍀برای اینکه لینکتو دریافت کنی بزن رو دکمه زیر👇
     '''
