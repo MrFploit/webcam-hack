@@ -24,9 +24,9 @@ cd webcam-hack
 python3 main.py 
 ```
   
-# Telegram Channel
-  <a href="https://t.me/LinuxArmy">چنل تلگرام</a>
-# Instagram
-<a href="https://instagram.com/LinuxArmy">LinuxArmy</a>
-# YouTube
-<a href="https://youtube.com/LinuxArmy">LinuxArmy</a>
+# چنل تلگرام
+  <a href="https://t.me/LinuxArmy">برای ورود به چنل تلگرام روی این متن کلیک کنید</a>
+# اینستاگرام
+<a href="https://instagram.com/LinuxArmy">پیج اینستاگرام</a>
+# یوتیوب
+<a href="https://youtube.com/LinuxArmy">برای دریافت اموزش های بیشتر روی لین متن کلیک کنید (با vpn روشن)</a>
