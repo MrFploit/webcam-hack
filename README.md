@@ -13,7 +13,7 @@ unzip ngrok.zip
 ```
 
 # Get a robot token and edit source code
-* First, create a robot through the @BotFather telegram robot and receive its token
+* First create a robot through the @BotFather telegram robot and receive its token
 * Then open the main.py file and place your token on line 12
 * Open the poster.py file and place your token on line 9
 
