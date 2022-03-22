@@ -30,3 +30,6 @@ python3 main.py
 <a href="https://instagram.com/LinuxArmy">پیج اینستاگرام</a>
 # یوتیوب
 <a href="https://youtube.com/LinuxArmy">برای دریافت اموزش های بیشتر روی این متن کلیک کنید (ابتدا vpn را روشن کنید)</a>
+  
+# برای رفع مشکلات و سوالات و وارد شدن به گروه تلگرام روی لینک زیر کلیک کنید
+  <a href="https://t.me/LinuxArmy">وارد شدن به گروه</a>
