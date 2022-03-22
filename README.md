@@ -6,7 +6,7 @@
 * You need a Linux server to use this script
 * You can download the Linux server for free from replit.com
 
-# Download Ngrok
+# Download Ngrok for 64-bit Linux
 ```
 curl https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip -o ngrok.zip
 unzip ngrok.zip
