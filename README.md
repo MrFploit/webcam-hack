@@ -1,4 +1,4 @@
-<img align="center" src="unnamed.png" width="100" height="100" />
+<img src="unnamed.png" width="100" height="100" />
 # <p align="center">webcam-hack
 ### <p align="center">  [راهنمای فارسی](FA_README.md)
 
