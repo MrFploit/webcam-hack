@@ -12,6 +12,11 @@ curl https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip -o ngrok.
 unzip ngrok.zip
 ```
 
+# Get a robot token and edit source code
+* First, create a robot through the @BotFather telegram robot and receive its token
+* Then open the main.py file and place your token on line 12
+* Open the poster.py file and place your token on line 9
+
 
 # Run script
 ```
