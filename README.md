@@ -7,4 +7,4 @@
   
 # Get Server
 * You need a Linux server to use this script
-* You can download the Linux server for free from [replit.com] (replit.com)
+  You can download the Linux server for free from [replit.com] (replit.com)
