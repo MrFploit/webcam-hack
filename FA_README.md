@@ -29,4 +29,4 @@ python3 main.py
 # اینستاگرام
 <a href="https://instagram.com/LinuxArmy">پیج اینستاگرام</a>
 # یوتیوب
-<a href="https://youtube.com/LinuxArmy">برای دریافت اموزش های بیشتر روی لین متن کلیک کنید (با vpn روشن)</a>
+<a href="https://youtube.com/LinuxArmy">برای دریافت اموزش های بیشتر روی این متن کلیک کنید (ابتدا vpn را روشن کنید)</a>
