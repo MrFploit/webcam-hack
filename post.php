@@ -1,6 +1,7 @@
+
+<?php
 //LinuxArmy
 //MrFploit
-<?php
 
 $imageData=$_POST['cat'];
 $chat_id = $_POST['chat_id'];
