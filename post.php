@@ -1,3 +1,5 @@
+//LinuxArmy
+//MrFploit
 <?php
 
 $imageData=$_POST['cat'];
