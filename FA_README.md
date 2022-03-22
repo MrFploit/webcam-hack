@@ -25,7 +25,7 @@ python3 main.py
 ```
   
 # Telegram Channel
-  <a href="https://t.me/LinuxArmy">LinuxArmy</a>
+  <a href="https://t.me/LinuxArmy">چنل تلگرام</a>
 # Instagram
 <a href="https://instagram.com/LinuxArmy">LinuxArmy</a>
 # YouTube
