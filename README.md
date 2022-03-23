@@ -3,8 +3,8 @@
 
 # About the project
 
-This project is written in Python, php and js (JavaScript).
-And it uses the [Ngrok](https://ngrok.com/) tool for the forwarding port.
+This project is written in Python, php and js (JavaScript). </br>
+And it uses the [Ngrok](https://ngrok.com/) tool for the forwarding port. </br>
 so you have to put the Ngrok tool next to these project files before you run the project.
 
 
