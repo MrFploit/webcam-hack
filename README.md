@@ -1,7 +1,20 @@
 # <p align="center">webcam-hack
 ### <p align="center">  [راهنمای فارسی](FA_README.md)
 
-  
+# About the project
+
+This project is written in Python, php and js (JavaScript).
+And it uses the [Ngrok](https://ngrok.com/) tool for the forwarding port.
+so you have to put the Ngrok tool next to these project files before you run the project.
+
+
+
+
+
+
+
+
+
 # Get Server
 * You need a Linux server to use this script
 * You can download the Linux server for free from replit.com
